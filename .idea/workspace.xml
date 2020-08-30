@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84d59ce7-6759-43dc-8285-090f2670cbf9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gf1tup0DyASGWgXLJPUk1dr3S5" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pethome" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="ts.external.directory.path" value="D:\Program Files\IntelliJ IDEA 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\pethome-web-parent\pethome-admin\src\views\org" />
+      <recent name="D:\IdeaProjects\pethome-web-parent\pethome-admin\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84d59ce7-6759-43dc-8285-090f2670cbf9" name="Default Changelist" comment="" />
+      <created>1598491050338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598491050338</updated>
+      <workItem from="1598491054089" duration="5429000" />
+      <workItem from="1598496927794" duration="3438000" />
+      <workItem from="1598500381232" duration="987000" />
+      <workItem from="1598511275258" duration="2588000" />
+      <workItem from="1598516064339" duration="7351000" />
+      <workItem from="1598526070553" duration="3903000" />
+      <workItem from="1598576747552" duration="8991000" />
+      <workItem from="1598587208538" duration="5762000" />
+      <workItem from="1598603056457" duration="6137000" />
+      <workItem from="1598611695482" duration="377000" />
+      <workItem from="1598612308756" duration="3780000" />
+      <workItem from="1598662355411" duration="1840000" />
+      <workItem from="1598664569561" duration="8190000" />
+      <workItem from="1598682399503" duration="6337000" />
+      <workItem from="1598714401838" duration="729000" />
+      <workItem from="1598750281492" duration="10000" />
+      <workItem from="1598795413363" duration="823000" />
+      <workItem from="1598797174735" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
